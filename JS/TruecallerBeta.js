@@ -3,7 +3,7 @@ obj =
 
 {
   "expire" : "2029-10-29T22:20:45Z",
-  "subscriptionStatus" : "DID_RENEW",
+  "subscriptionStatus" : "RenewalStatusOff",
   "start" : "2022-10-29T21:20:45Z",
   "product" : {
     "productType" : "GoldYearly",
