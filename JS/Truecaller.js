@@ -10,6 +10,7 @@ obj =
     "id" : "renewable.premiumgold.annual",
     "isFreeTrial" : false,
     "contentType" : "subscription",
+    "rank" : 6,
     "sku" : "renewable.premiumgold.annual"
   },
   "isGracePeriodExpired" : false,
