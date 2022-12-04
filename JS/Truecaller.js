@@ -34,11 +34,6 @@ obj =
         "rank" : 1
       },
       {
-        "id" : "call_assistant",
-        "status" : "Excluded",
-        "rank" : 2
-      },
-      {
         "id" : "extended_spam_blocking",
         "status" : "Included",
         "rank" : 3
