@@ -2,15 +2,14 @@ var obj = JSON.parse($response.body);
 obj =
 
 {
-  "expire" : "2029-11-29T22:20:45Z",
+  "expire" : "2029-12-04T18:04:50Z",
   "subscriptionStatus" : "RenewalStatusOff",
-  "start" : "2022-11-29T21:20:45Z",
+  "start" : "2022-12-04T17:04:50Z",
   "product" : {
     "productType" : "GoldYearly",
     "id" : "renewable.premiumgold.annual",
     "isFreeTrial" : false,
     "contentType" : "subscription",
-    "rank" : 6,
     "sku" : "renewable.premiumgold.annual"
   },
   "isGracePeriodExpired" : false,
@@ -33,6 +32,11 @@ obj =
         "id" : "no_ads",
         "status" : "Included",
         "rank" : 1
+      },
+      {
+        "id" : "call_assistant",
+        "status" : "Excluded",
+        "rank" : 2
       },
       {
         "id" : "extended_spam_blocking",
@@ -58,6 +62,11 @@ obj =
         "id" : "premium_support",
         "status" : "Included",
         "rank" : 12
+      },
+      {
+        "id" : "family_sharing",
+        "status" : "Excluded",
+        "rank" : 14
       },
       {
         "id" : "gold_caller_id",
