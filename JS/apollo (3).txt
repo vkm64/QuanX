@@ -1,1 +1,0 @@
-{"products":[{"name":"ultra","status":"LIFETIME"},{"name":"pro","status":"NO"},{"name":"community_icons","status":"NO"},{"name":"spca","status":"LIFETIME"}]}
