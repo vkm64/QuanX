@@ -39,24 +39,6 @@ var objc = JSON.parse($response.body);
   },
   "environment" : "Production",
   "status" : 0,
-  "latest_receipt_info" : [
-    {
-      "quantity" : "1",
-      "purchase_date_ms" : "1639925490000",
-      "transaction_id" : "20000961765202",
-      "is_trial_period" : "false",
-      "original_transaction_id" : "20000961765202",
-      "purchase_date" : "2022-12-25 15:23:49 Etc/GMT",
-      "product_id" : "filterra.clubvipmembership",
-      "original_purchase_date_pst" : "2019-05-14 19:02:30 America/Los_Angeles",
-      "in_app_ownership_type" : "PURCHASED",
-      "original_purchase_date_ms" : "1639925490000",
-      "purchase_date_pst" : "2019-05-15 02:02:30 America/Los_Angeles",
-      "original_purchase_date" : "2019-05-15 02:02:30 Etc/GMT"
-    }
-  ],
-  "latest_receipt" : 
-"""
 }
 
 $done({body : JSON.stringify(objc)});
