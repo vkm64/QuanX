@@ -37,8 +37,6 @@ var objc = JSON.parse($response.body);
     "original_application_version" : "3.0.107",
     "download_id" : 95042525156520
   },
-  "environment" : "Production",
   "status" : 0,
 }
-
 $done({body : JSON.stringify(objc)});
