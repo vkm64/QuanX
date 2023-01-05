@@ -24,7 +24,7 @@ obj =
          "pro"
         {  
          "expires_date":"2999-09-28T09:00:00Z"                  "purchase_date":"2023-01-03T11:50:05Z",
-                    "product_identifier"Brass_Premium
+                    "product_identifier"Brass_Premium”
                     "grace_period_expires_date": null
          }
     },
